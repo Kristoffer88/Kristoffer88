@@ -6,12 +6,23 @@
 
 Building AI-powered developer tools and MCP servers. Background in Microsoft Dynamics 365 and Power Platform.
 
+## What I'm Doing
+
+- Building agent-first developer tooling and MCP servers
+- Focusing on practical AI workflows for daily engineering
+- Shipping local-first tools with strong privacy defaults
+
 ## Current Projects
 
 - 🛒 [salling-food-waste-mcp](https://github.com/kristoffer88/salling-food-waste-mcp) — MCP server for discounted food waste from Danish supermarkets
 - 🔍 [agent-optic](https://github.com/kristoffer88/agent-optic) — Zero-dependency, local-first toolkit for reading AI assistant session data (Claude, Codex/OpenAI) with an agent-first CLI
 - 🔐 [pcf-dev-proxy](https://github.com/kristoffer88/pcf-dev-proxy) — HTTPS MITM proxy for local PCF development against live Dynamics 365
 
-## Deprecated Projects
+## Legacy Work
 
 - 🗃️ [claude-optic](https://github.com/kristoffer88/claude-optic) — Superseded by `agent-optic` with multi-provider support and an agent-first CLI contract
+
+## GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kristoffer88&theme=github-dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kristoffer88&show_icons=true&theme=transparent&hide_border=true)
