@@ -26,4 +26,4 @@ Building AI-powered developer tools and MCP servers. Background in Microsoft Dyn
 ## GitHub Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kristoffer88&theme=github-dark&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kristoffer88&show_icons=true&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kristoffer88&theme=github_dark)
