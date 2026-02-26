@@ -21,6 +21,8 @@ Building AI-powered developer tools and MCP servers. Background in Microsoft Dyn
 ## Legacy Work
 
 - 🗃️ [claude-optic](https://github.com/kristoffer88/claude-optic) — Superseded by `agent-optic` with multi-provider support and an agent-first CLI contract
+- 🧰 [dataverse-utilities](https://github.com/kristoffer88/dataverse-utilities) — Archived toolkit of developer utilities for Microsoft Dataverse
+- 🧪 [pcf-vite-harness](https://github.com/kristoffer88/pcf-vite-harness) — Archived local harness for rapid PCF development/testing with Vite
 
 ## GitHub Activity
 
