@@ -8,7 +8,7 @@ Building AI-powered developer tools and MCP servers. Background in Microsoft Dyn
 
 ## What I'm Doing
 
-- Optimizing the agentic harness
+- Optimizing my agentic harness
 - Building and shipping useful things
 
 ## Current Projects
