@@ -14,7 +14,7 @@ Building AI-powered developer tools and MCP servers. Background in Microsoft Dyn
 ## Current Projects
 
 - 🛒 [salling-food-waste-mcp](https://github.com/kristoffer88/salling-food-waste-mcp) — MCP server for discounted food waste from Danish supermarkets
-- 🔍 [agent-optic](https://github.com/kristoffer88/agent-optic) — Zero-dependency, local-first toolkit for reading AI assistant session data (Claude, Codex/OpenAI) with an agent-first CLI
+- 🔍 [agent-optic](https://github.com/kristoffer88/agent-optic) — Local-first toolkit for Claude/Codex session data
 - 🔐 [pcf-dev-proxy](https://github.com/kristoffer88/pcf-dev-proxy) — HTTPS MITM proxy for local PCF development against live Dynamics 365
 
 ## Legacy Work
