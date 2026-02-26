@@ -22,7 +22,3 @@ Building AI-powered developer tools. Background in Microsoft Dynamics 365 and Po
 - 🗃️ [claude-optic](https://github.com/kristoffer88/claude-optic) — Superseded by `agent-optic` with multi-provider support and an agent-first CLI contract
 - 🧰 [dataverse-utilities](https://github.com/kristoffer88/dataverse-utilities) — Archived toolkit of developer utilities for Microsoft Dataverse
 - 🧪 [pcf-vite-harness](https://github.com/kristoffer88/pcf-vite-harness) — Archived local harness for rapid PCF development/testing with Vite
-
-## GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kristoffer88&theme=github-dark&hide_border=true)
