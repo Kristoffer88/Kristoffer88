@@ -26,4 +26,3 @@ Building AI-powered developer tools. Background in Microsoft Dynamics 365 and Po
 ## GitHub Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kristoffer88&theme=github-dark&hide_border=true)
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kristoffer88&theme=github_dark)
