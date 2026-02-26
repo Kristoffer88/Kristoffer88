@@ -8,9 +8,8 @@ Building AI-powered developer tools and MCP servers. Background in Microsoft Dyn
 
 ## What I'm Doing
 
-- Building agent-first developer tooling and MCP servers
-- Focusing on practical AI workflows for daily engineering
-- Shipping local-first tools with strong privacy defaults
+- Optimizing the agentic harness
+- Building and shipping useful things
 
 ## Current Projects
 
