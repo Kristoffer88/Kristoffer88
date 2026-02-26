@@ -2,7 +2,7 @@
 
 📍 Denmark | 🤖 Building tools with AI agents
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff) ![Claude](https://img.shields.io/badge/Claude-191919?logo=anthropic&logoColor=fff) ![Dynamics 365](https://img.shields.io/badge/Dynamics_365-002050?logo=dynamics365&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff) ![Claude](https://img.shields.io/badge/Claude-191919?logo=anthropic&logoColor=fff) ![Power Platform](https://img.shields.io/badge/Power_Platform-742774?logo=powerapps&logoColor=fff)
 
 Building AI-powered developer tools and MCP servers. Background in Microsoft Dynamics 365 and Power Platform.
 
