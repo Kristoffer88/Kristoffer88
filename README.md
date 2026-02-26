@@ -1,0 +1,13 @@
+# Hi, I'm Kristoffer 👋
+
+📍 Denmark | 🤖 Building tools with AI agents
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff) ![Claude](https://img.shields.io/badge/Claude-191919?logo=anthropic&logoColor=fff) ![Dynamics 365](https://img.shields.io/badge/Dynamics_365-002050?logo=dynamics365&logoColor=fff)
+
+Building AI-powered developer tools and MCP servers. Background in Microsoft Dynamics 365 and Power Platform.
+
+## Current Projects
+
+- 🛒 [salling-food-waste-mcp](https://github.com/kristoffer88/salling-food-waste-mcp) — MCP server for discounted food waste from Danish supermarkets
+- 🔍 [claude-optic](https://github.com/kristoffer88/claude-optic) — Zero-dependency, local-first framework for reading Claude Code session data
+- 🔐 [pcf-dev-proxy](https://github.com/kristoffer88/pcf-dev-proxy) — HTTPS MITM proxy for local PCF development against live Dynamics 365
