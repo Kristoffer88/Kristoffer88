@@ -4,9 +4,9 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff) ![Claude](https://img.shields.io/badge/Claude-191919?logo=anthropic&logoColor=fff) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff) ![Power Platform](https://img.shields.io/badge/Power_Platform-742774?logo=powerapps&logoColor=fff)
 
-Building AI-powered developer tools. Background in Microsoft Dynamics 365 and Power Platform.
+Building AI-powered developer tools. Background in Microsoft Power Platform.
 
-- **Business Applications** — Dynamics 365, Dataverse, model-driven apps, plugins, web resources
+- **Business Applications** — Dataverse, model-driven apps, plugins, web resources
 - **Work Management** — Project Operations, portfolio management, resource planning
 - **Power Platform** — PCF controls, Power Apps, Power Automate, ALM pipelines
 
