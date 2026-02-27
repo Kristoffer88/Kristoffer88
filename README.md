@@ -13,7 +13,7 @@ Building AI-powered developer tools. Background in Microsoft Dynamics 365 and Po
 
 ## Current Projects
 
-- 📥 [offload](https://github.com/Kristoffer88/offload) — Natural-language quick capture for macOS — Calendar, Reminders, Notes
+- 📥 [offload](https://github.com/Kristoffer88/offload) — Natural-language quick capture for macOS via CLI or Raycast — routes to Calendar, Reminders, Notes
 - 🛒 [salling-food-waste-mcp](https://github.com/kristoffer88/salling-food-waste-mcp) — MCP server for discounted food waste from Danish supermarkets
 - 🔍 [agent-optic](https://github.com/kristoffer88/agent-optic) — Local-first toolkit for Claude/Codex session data
 - 🔐 [pcf-dev-proxy](https://github.com/kristoffer88/pcf-dev-proxy) — HTTPS MITM proxy for local PCF development against live Dynamics 365
