@@ -9,7 +9,7 @@ Building tools for people and AI agents. Background in Power Platform, Business 
 ## What I'm Doing
 
 - Optimizing my agentic harness
-- Building and shipping useful things
+- Building and shipping things I use myself
 
 ## Current Projects
 
