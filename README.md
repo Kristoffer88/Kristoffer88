@@ -1,6 +1,6 @@
 # Hi, I'm Kristoffer 👋
 
-📍 Denmark | 🤖 Building tools with AI agents
+📍 Denmark | 🏢 Context& | 🤖 Building tools with AI agents
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff) ![Claude](https://img.shields.io/badge/Claude-191919?logo=anthropic&logoColor=fff) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff) ![Power Platform](https://img.shields.io/badge/Power_Platform-742774?logo=powerapps&logoColor=fff)
 
